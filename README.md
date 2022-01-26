@@ -5,6 +5,11 @@
 ### Steps
 1. 
 
+## Clustering Algorithms
+### K-Means
+The K-means algorithm clusers data by trying to separate samples in k groups which minimize within-cluster sum-of-squares (variance).
+
+\sum_{i=0}^{n}\min_{\mu_j \in C}(||x_i - \mu_j||^2)
 
 ## What are the assumpations for the linear regression?
 
